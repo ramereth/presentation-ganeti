@@ -1,0 +1,7 @@
+features and overall design
+basics of installing
+basic operations
+- deployment
+- failover
+- expansion
+production setup

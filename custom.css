@@ -1,0 +1,102 @@
+@font-face { font-family: 'Junction'; src: url(fonts/Junction02.otf); }
+@font-face { font-family: 'benwiener'; src: url(fonts/benweiner_-_Puritan_Regular.otf); }
+
+h1, h2, h3, h4, h5, h6, .slide {
+    font-family: benwiener, Helvetica, Arial, sans-serif;
+}
+
+.code {
+    font-family: monospace;
+    font-size: 18pt;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+pre {
+    font-size: 20pt;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    padding: 10px 20px;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 8px;
+    border: 1px solid rgba(255, 0, 0, 0.2);
+}
+
+body {
+    background: #778;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.slide {
+    width: 1020px;
+    height: 800px;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    background-color: none;
+    background: none;
+    border: none
+}
+
+#preso, .center {
+    top: 2.5%;
+    width: 1020px;
+    height: 800px;
+}
+
+.subsection {
+    background: #008 -webkit-gradient(linear, 0% 0%, 0% 100%, from(#008), to(#009));
+    background-color: #008;
+    font-family: 'Junction';
+    padding: 6px 10px 3px 10px;
+    line-height: 30px;
+    text-shadow: none;
+    letter-spacing: 0;
+    bottom: 10px;
+    position: relative;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
+}
+
+#preso {
+    background: -webkit-gradient(linear, left bottom, left top, from(#bbd), to(#fff));
+    background-color: #eee;
+    background: -moz-linear-gradient(bottom, #bbd, #fff);
+    border-top-left-radius: 20px;
+    -moz-border-radius-topleft: 20px;
+    -webkit-border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    -moz-border-radius-bottomright: 20px;
+    -webkit-border-bottom-right-radius: 20px;
+}
+    
+
+#footer { 
+    position: relative;
+    width: 1020px;
+    padding: 0px;
+    top: 2.5%;
+}
+
+.center img:first-child {
+    position: relative;
+    width: 80%;
+    /* Set the height dynamically depending on the image's current width,
+     * keeping the aspect ratio */
+    height: auto;
+}
+
+.bullets ul li {
+    text-align: left;
+    list-style: disc;
+}
+.bullets ul {
+    padding-left: 1em;
+}
