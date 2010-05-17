@@ -1,7 +1,54 @@
-features and overall design
-basics of installing
-basic operations
-- deployment
-- failover
-- expansion
-production setup
+overview
+ - What is Ganeti
+ - Design
+ - Features
+ - Terminology
+
+storage
+ - DRBD
+ - LVM
+ - Image
+
+comparison
+ - Libvirt
+ - Advantages
+ - Disadvantages
+
+installation
+ - Networking
+ - Kernel
+ - Install Ganeti
+ - DNS
+ - DRBD / LVM
+
+components
+ - Ganeti UI
+ - Daemons
+
+ganeti-cluster
+ - Initalize Cluster
+ - Modify
+ - Verification
+ - Master Failover
+
+ganeti-instances
+ - Instance Scripts
+ - Image Overview
+ - Deploying
+ - Info
+ - Start, Stop, Console
+ - Migrate
+ - Modify
+ - Reboot
+
+ganeti-node
+ - Add
+ - Info
+ - Migrate
+ - Evacuate
+ - Expansion
+
+ending
+ - Resource links
+ - Acknowledgement
+ - Contact info
