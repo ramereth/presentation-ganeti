@@ -1,5 +1,6 @@
 {   "name": "Ganeti",
     "sections": [ 
-        {"section":"title"} 
+        {"section":"title"},
+        {"section":"ganeti-cluster"}
     ]
 }
