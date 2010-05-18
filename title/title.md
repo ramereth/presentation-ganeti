@@ -18,6 +18,6 @@
 # Contact Me #
 ## lance@osuosl.org ##
 ## http://www.lancealbertson.com ##
-## @ramereth via twitter ##
-## Ramereth via Freenode ##
+## @ramereth on twitter ##
+## Ramereth on Freenode ##
 
