@@ -17,8 +17,8 @@ cluster setup
  - node expansion
 
 instances
- - instance commands
  - instance creation
+ - instance commands
  - ganeti-instance-image
 
 other tools
