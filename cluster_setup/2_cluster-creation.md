@@ -23,3 +23,5 @@
 
     $ gnt-node add \
         -s 10.1.11.201 node2
+
+### image ###
