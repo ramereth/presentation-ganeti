@@ -1,6 +1,7 @@
 {   "name": "Ganeti",
     "sections": [ 
-        {"section":"title"},
-        {"section":"ganeti-cluster"}
+        {"section":"introduction"},
+        {"section":"cluster_comparisons"},
+        {"section":"design_goals"}
     ]
 }

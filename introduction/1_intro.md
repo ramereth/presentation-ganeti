@@ -1,10 +1,11 @@
-!SLIDE
+!SLIDE transition=scrollLeft
 
 # Ganeti #
 ## Creating a low-cost clustered virtualization environment ##
 ### by Lance Albertson ###
+### slides: http:// ###
 
-!SLIDE bullets
+!SLIDE bullets transition=scrollLeft
 
 # About Me #
 
@@ -12,12 +13,3 @@
 * Server hosting for Open Source projects
 * Lead Systems Administrator / Architect
 * Gentoo Developer
-
-!SLIDE
-
-# Contact Me #
-## lance@osuosl.org ##
-## http://www.lancealbertson.com ##
-## @ramereth on twitter ##
-## Ramereth on Freenode ##
-
