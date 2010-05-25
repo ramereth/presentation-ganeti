@@ -1,54 +1,44 @@
-overview
+introduction
  - What is Ganeti
- - Design
- - Features
  - Terminology
 
-storage
- - DRBD
- - LVM
- - Image
+cluster comparisons
+ - Traditional HA cluster
+ - Ganeti cluster
 
-comparison
- - Libvirt
- - Advantages
- - Disadvantages
+design goals
+ - Goals
+ - Principles
+ - Redundancy & Failover
 
-installation
- - Networking
- - Kernel
- - Install Ganeti
- - DNS
- - DRBD / LVM
+cluster setup
+ - ganeti commands (cluster & node commands)
+ - cluster creation
+ - node expansion
 
-components
- - Ganeti UI
- - Daemons
+instances
+ - instance commands
+ - instance creation
+ - ganeti-instance-image
 
-ganeti-cluster
- - Initalize Cluster
- - Modify
- - Verification
- - Master Failover
+other tools
+ - ganeti-htools
+ - balancer
+ - allocation
 
-ganeti-instances
- - Instance Scripts
- - Image Overview
- - Deploying
- - Info
- - Start, Stop, Console
- - Migrate
- - Modify
- - Reboot
+failure examples
+ - primary node failure
+ - secondary node failure
+ - instance migration/failover
 
-ganeti-node
- - Add
- - Info
- - Migrate
- - Evacuate
- - Expansion
+usage at OSUOSL
+ - list info
+
+project details & roadmap
+ - Open source
+ - roadmap
 
 ending
- - Resource links
- - Acknowledgement
- - Contact info
+ - resource links
+ - acknowledgement
+ - q & a
