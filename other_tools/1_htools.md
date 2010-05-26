@@ -7,7 +7,7 @@
 * IAllocator plugin - <code>hail(1)</code>
 * Cluster capacity estimator - <code>hspace(1)</code>
 
-!SLIDE commandline incremental transition=scrollLeft
+!SLIDE commandline transition=scrollLeft
 
 # <code>hbal</code> #
 
@@ -24,7 +24,7 @@
     Cluster score improved from 0.53388595 to 0.52958328
     Solution length=5
 
-!SLIDE commandline incremental transition=scrollLeft
+!SLIDE commandline transition=scrollLeft
 
 # <code>hspace</code> #
 
@@ -36,7 +36,7 @@
     HTS_ALLOC_INSTANCES=38
     HTS_ALLOC_FAIL_REASON=FAILDISK
 
-!SLIDE commandline small incremental transition=scrollLeft
+!SLIDE commandline small transition=scrollLeft
 
 # <code>hail</code> #
 
