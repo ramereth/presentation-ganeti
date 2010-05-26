@@ -1,7 +1,8 @@
-!SLIDE
+!SLIDE transition=scrollLeft
 
-# Contact Me #
+# Questions? #
 ## lance@osuosl.org ##
-## http://www.lancealbertson.com ##
 ## @ramereth on twitter ##
 ## Ramereth on Freenode ##
+
+### slides: http://www.lancealbertson.com/presentations/osb-ganeti ###
