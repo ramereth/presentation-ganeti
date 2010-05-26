@@ -6,6 +6,7 @@
         {"section":"cluster_setup"},
         {"section":"instances"},
         {"section":"other_tools"},
+        {"section":"failure_examples"},
         {"section":"ending"}
     ]
 }
