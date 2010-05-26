@@ -8,6 +8,7 @@
         {"section":"other_tools"},
         {"section":"failure_examples"},
         {"section":"osuosl_usage"},
+        {"section":"ganeti_roadmap"},
         {"section":"ending"}
     ]
 }
