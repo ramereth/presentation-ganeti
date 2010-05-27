@@ -1,7 +1,7 @@
 !SLIDE bullets transition=scrollLeft
 
 # <code>ganeti-instance-image</code> #
-### http://projects.osuosl.org/projects/ganeti-image ###
+### http://code.osuosl.org/projects/ganeti-image ###
 
 * Disk image based (dump archive or tarball)
 * Flexible OS support (most *nix)

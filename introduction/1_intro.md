@@ -3,7 +3,7 @@
 # Ganeti #
 ## Creating a low-cost clustered virtualization environment ##
 ### by Lance Albertson ###
-### slides: http:// ###
+### slides: http://www.lancealbertson.com/presentations/osb-ganeti ###
 
 !SLIDE bullets transition=scrollLeft
 
