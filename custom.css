@@ -31,6 +31,11 @@ pre {
     color: silver;
 }
 
+.center code, pre {
+    color: white;
+    text-align: left;
+}
+
 body {
     background: #778;
     padding: 0;
@@ -93,9 +98,9 @@ body {
     top: 2.5%;
 }
 
-.center img:first-child {
+img:first-child {
     position: relative;
-    width: 80%;
+    width: 90%;
     /* Set the height dynamically depending on the image's current width,
      * keeping the aspect ratio */
     height: auto;
