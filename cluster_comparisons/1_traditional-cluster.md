@@ -1,5 +1,5 @@
-!SLIDE full-page-image transition=scrollLeft
+!SLIDE center transition=scrollLeft
 
 # Traditional HA cluster #
 
-### image ###
+![traditional-cluster](traditional-cluster.png)

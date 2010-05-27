@@ -1,7 +1,8 @@
-!SLIDE full-page-image transition=scrollLeft
+!SLIDE center transition=scrollLeft
 
 # Creating an instance #
-### image ###
+
+![creating-instance](creating-instance.png)
 
 !SLIDE commandline incremental small transition=scrollLeft
 

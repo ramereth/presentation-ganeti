@@ -1,22 +1,24 @@
-!SLIDE full-page-image transition=scrollLeft
+!SLIDE center transition=scrollLeft
 
 # Primary node failure #
 
-### image ###
+![primary-failure](primary-failure.png)
 
-!SLIDE commandline transition=scrollLeft
+
+!SLIDE center transition=scrollLeft
 
 # Primary node failure #
 
     $ gnt-instance failover --ignore-consistency gimager
 
-### image ###
+![primary-failover](primary-failover.png)
 
-!SLIDE commandline transition=scrollLeft
+
+!SLIDE center transition=scrollLeft
 
 # Secondary node failure #
 
     $ gnt-instance replace-disks --on-secondary \
     $   --new-secondary=node1 gimager
 
-### image ###
+![secondary-failover](secondary-failover.png)

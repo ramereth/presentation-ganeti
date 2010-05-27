@@ -1,5 +1,5 @@
-!SLIDE full-page-image transition=scrollLeft
+!SLIDE center transition=scrollLeft
 
 # Ganeti cluster #
 
-### image ###
+![ganeti-cluster](ganeti-cluster.png)

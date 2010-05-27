@@ -1,8 +1,8 @@
-!SLIDE full-page-image transition=scrollLeft
+!SLIDE center transition=scrollLeft
 
 # Cluster creation #
 
-### image ###
+![cluster-creation](cluster-creation.png)
 
 !SLIDE commandline transition=scrollLeft incremental
 
@@ -17,11 +17,11 @@
           -H kvm:kernel_path=/boot/guest/vmlinuz-x86_64 \
           ganeti-cluster.osuosl.org
 
-!SLIDE commandline transition=scrollLeft incremental
+!SLIDE commandline center transition=scrollLeft incremental
 
 # Adding nodes #
 
     $ gnt-node add \
         -s 10.1.11.201 node2
 
-### image ###
+![adding-nodes](adding-nodes.png)
