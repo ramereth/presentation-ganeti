@@ -11,6 +11,6 @@
 
 # Principles #
 
-* Not dependent on specific hardware (i.e. SAN)
+* Not dependent on specific hardware
 * Scales linearly
 * Single node takes master role
