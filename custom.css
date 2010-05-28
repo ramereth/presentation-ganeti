@@ -101,6 +101,7 @@ body {
 img:first-child {
     position: relative;
     width: 90%;
+    padding: 3em;
     /* Set the height dynamically depending on the image's current width,
      * keeping the aspect ratio */
     height: auto;
