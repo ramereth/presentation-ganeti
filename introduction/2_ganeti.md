@@ -1,14 +1,25 @@
 !SLIDE bullets transition=scrollLeft
 
-# What is Ganeti? #
+# What I will cover #
+
+* Ganeti terminology, comparisons, & goals
+* Cluster & virtual machine setup
+* Failure walk through
+* OSUOSL usage of ganeti
+* Future roadmap
+
+!SLIDE bullets transition=scrollLeft
+
+# What is ganeti? #
 
 * Software to manage clusters of virtual servers
 * Combines virtualization & data replication
-* Hypervisor backends
+* Disk creation management
+* Automated OS deployment
 
 !SLIDE smbullets transition=scrollLeft
 
-# Ganeti Terminology #
+# Ganeti terminology #
 
 ## Node ##
 * Physical machine
@@ -17,14 +28,19 @@
 ## Instance ##
 * Virtual machine
 * Xen DomU
+* Guest
 
 !SLIDES smbullets transition=scrollLeft
 
-# Ganeti Terminology #
+# Ganeti technology #
 
 ## DRBD ##
 * Distributed Replication Block Device (http://www.drbd.org)
 * Used for data replication
 
-## LVM (Logical Volume Manager)
+## LVM (Logical Volume Manager) ##
 * Used to manage instances' volumes
+
+## Hypervisor ##
+* KVM
+* Xen
