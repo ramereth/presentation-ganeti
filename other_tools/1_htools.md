@@ -42,17 +42,17 @@
 
     $ gnt-instance add -t drbd -I hail \
     $   -s 10G -o image+gentoo-hardened-cf \
-    $   --net 0:link=br42  gimager.osuosl.bak \
-     - INFO: Selected nodes for instance gimager.osuosl.bak 
+    $   --net 0:link=br42  web.example.org \
+     - INFO: Selected nodes for instance web.example.org 
              via iallocator hail: gtest1.osuosl.bak, gtest2.osuosl.bak
     * creating instance disks...
-    adding instance gimager.osuosl.bak to cluster config
-     - INFO: Waiting for instance gimager.osuosl.bak to sync disks.
+    adding instance web.example.org to cluster config
+     - INFO: Waiting for instance web.example.org to sync disks.
      - INFO: - device disk/0:  3.60% done, 1149 estimated seconds remaining
      - INFO: - device disk/0: 29.70% done, 144 estimated seconds remaining
      - INFO: - device disk/0: 55.50% done, 88 estimated seconds remaining
      - INFO: - device disk/0: 81.10% done, 47 estimated seconds remaining
-     - INFO: Instance gimager.osuosl.bak's disks are in sync.
+     - INFO: Instance web.example.org's disks are in sync.
     * running the instance OS create scripts...
     * starting instance...
 

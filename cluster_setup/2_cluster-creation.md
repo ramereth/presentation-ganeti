@@ -21,7 +21,7 @@
 
 # Adding nodes #
 
+![adding-nodes](adding-nodes.png)
+
     $ gnt-node add \
         -s 10.1.11.201 node2
-
-![adding-nodes](adding-nodes.png)

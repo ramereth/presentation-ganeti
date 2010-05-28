@@ -6,3 +6,4 @@
 ## Ramereth on Freenode ##
 
 ### slides: http://www.lancealbertson.com/presentations/osb-ganeti ###
+### source: http://github.com/ramereth/presentation-ganeti ###
