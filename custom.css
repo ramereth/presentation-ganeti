@@ -107,6 +107,11 @@ img:first-child {
     height: auto;
 }
 
+.smimage img:first-child {
+    height: 40%;
+    width: auto;
+}
+
 #.bullets ul li {
 #    text-align: left;
 #    list-style: disc;
