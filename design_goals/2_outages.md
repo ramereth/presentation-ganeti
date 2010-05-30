@@ -1,8 +1,8 @@
-!SLIDE bullets transition=fade
+!SLIDE bullets small center transition=fade
 
 # Dealing with outages #
 
-### drbd image ###
+![drbd](drbd.png)
 
 * N+1 redundancy
 * Data replication
