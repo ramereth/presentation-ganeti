@@ -113,6 +113,10 @@ img:first-child {
     width: auto;
 }
 
+.medimage img:first-child {
+    height: auto;
+    width: 60%;
+}
 #.bullets ul li {
 #    text-align: left;
 #    list-style: disc;
