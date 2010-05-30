@@ -3,13 +3,13 @@
 # Ganeti htools #
 
 * Automatic allocation tools
-* Cluster rebalancer - <code>hbal(1)</code>
-* IAllocator plugin - <code>hail(1)</code>
-* Cluster capacity estimator - <code>hspace(1)</code>
+* Cluster rebalancer - __`hbal`__
+* IAllocator plugin - __`hail`__
+* Cluster capacity estimator - __`hspace`__
 
 !SLIDE commandline transition=fade
 
-# <code>hbal</code> #
+# `hbal` #
 
     $ hbal -m ganeti.osuosl.bak
     Loaded 4 nodes, 63 instances
@@ -26,7 +26,7 @@
 
 !SLIDE commandline transition=fade
 
-# <code>hspace</code> #
+# `hspace` #
 
     $ hspace --memory 512 --disk 10240 -m ganeti.osuosl.bak
     HTS_INI_INST_CNT=63
@@ -38,7 +38,7 @@
 
 !SLIDE commandline small transition=fade
 
-# <code>hail</code> #
+# `hail` #
 
     $ gnt-instance add -t drbd -I hail \
     $   -s 10G -o image+gentoo-hardened-cf \

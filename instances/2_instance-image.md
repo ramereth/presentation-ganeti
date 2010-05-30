@@ -1,6 +1,6 @@
 !SLIDE bullets transition=fade
 
-# <code>ganeti-instance-image</code> #
+# `ganeti-instance-image` #
 ### http://code.osuosl.org/projects/ganeti-image ###
 
 * Disk image based (dump archive or tarball)
@@ -10,7 +10,7 @@
 
 !SLIDE bullets transition=fade
 
-# <code>ganeti-instance-image</code> #
+# `ganeti-instance-image` #
 
 * Setup serial for grub, grub2, & login prompt
 * Automatic networking setup (DHCP or static)
