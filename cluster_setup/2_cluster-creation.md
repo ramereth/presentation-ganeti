@@ -1,10 +1,10 @@
-!SLIDE center transition=scrollLeft
+!SLIDE center transition=fade
 
 # Cluster creation #
 
 ![cluster-creation](cluster-creation.png)
 
-!SLIDE commandline transition=scrollLeft incremental
+!SLIDE commandline transition=fade incremental
 
 # Cluster creation #
 
@@ -17,7 +17,7 @@
           -H kvm:kernel_path=/boot/guest/vmlinuz-x86_64 \
           ganeti-cluster.osuosl.org
 
-!SLIDE commandline center transition=scrollLeft incremental
+!SLIDE commandline center transition=fade incremental
 
 # Adding nodes #
 

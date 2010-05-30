@@ -1,4 +1,4 @@
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # Ganeti Commands #
 
@@ -6,7 +6,7 @@
 * All commands support interactive help
 * Consistent user interface
 
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # Ganeti Commands #
 
@@ -16,7 +16,7 @@
 * <code>gnt-backup</code>
 * <code>gnt-os</code>
 
-!SLIDE bullets transition=scrollLeft incremental
+!SLIDE bullets transition=fade incremental
 
 # <code>gnt-cluster</code> #
 
@@ -25,7 +25,7 @@
 * Fail-over master node
 * Verify cluster integrity
 
-!SLIDE bullets transition=scrollLeft incremental
+!SLIDE bullets transition=fade incremental
 
 # <code>gnt-node</code> #
 
@@ -34,7 +34,7 @@
 * Relocate all secondary instances from a node
 * List information about nodes
 
-!SLIDE bullets transition=scrollLeft incremental 
+!SLIDE bullets transition=fade incremental 
 
 # <code>gnt-instance</code> #
 
@@ -44,7 +44,7 @@
 * Stop, start, migrate instance
 * List instance information
 
-!SLIDE bullets transition=scrollLeft incremental 
+!SLIDE bullets transition=fade incremental 
 
 # <code>gnt-backup</code> #
 

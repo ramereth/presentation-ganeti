@@ -1,4 +1,4 @@
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets transition=fade
 
 # Ganeti usage at OSUOSL #
 
@@ -15,7 +15,7 @@
 * 24G RAM
 * 630G - RAID5 6x146G 10K SCSI HDDs
 
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # OSUOSL future ganeti plans #
 

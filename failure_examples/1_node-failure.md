@@ -1,10 +1,10 @@
-!SLIDE center transition=scrollLeft
+!SLIDE center transition=fade
 
 # Primary node failure #
 
 ![primary-failure](primary-failure.png)
 
-!SLIDE center transition=scrollLeft
+!SLIDE center transition=fade
 
 # Primary node failure #
 
@@ -12,7 +12,7 @@
 
     $ gnt-instance failover --ignore-consistency web
 
-!SLIDE center transition=scrollLeft
+!SLIDE center transition=fade
 
 # Secondary node failure #
 

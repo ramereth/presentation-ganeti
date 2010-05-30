@@ -1,4 +1,4 @@
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # Dealing with outages #
 

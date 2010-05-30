@@ -1,4 +1,4 @@
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # Goals #
 
@@ -7,7 +7,7 @@
 * Increase flexibility
 * Transparency
 
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # Principles #
 

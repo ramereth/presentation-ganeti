@@ -1,4 +1,4 @@
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # <code>ganeti-instance-image</code> #
 ### http://code.osuosl.org/projects/ganeti-image ###
@@ -8,7 +8,7 @@
 * Fast deployment
 * Easy to use
 
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # <code>ganeti-instance-image</code> #
 

@@ -1,4 +1,4 @@
-!SLIDE transition=scrollLeft
+!SLIDE transition=fade
 
 # Questions? #
 ## lance@osuosl.org ##

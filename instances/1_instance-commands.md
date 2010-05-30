@@ -1,10 +1,10 @@
-!SLIDE center transition=scrollLeft
+!SLIDE center transition=fade
 
 # Creating an instance #
 
 ![creating-instance](creating-instance.png)
 
-!SLIDE commandline incremental small transition=scrollLeft
+!SLIDE commandline incremental small transition=fade
 
 # Creating an instance #
 
@@ -25,7 +25,7 @@
     * running the instance OS create scripts...
     * starting instance...
 
-!SLIDE commandline transition=scrollLeft
+!SLIDE commandline transition=fade
 
 # Other instance commands #
 

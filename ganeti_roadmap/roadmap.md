@@ -1,4 +1,4 @@
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # Open source #
 
@@ -9,7 +9,7 @@
 * Ganeti 2.1.0 - March 2010
 
 
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # Ganeti roadmap #
 

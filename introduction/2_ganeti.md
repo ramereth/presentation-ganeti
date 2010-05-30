@@ -1,4 +1,4 @@
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # What I will cover #
 
@@ -8,7 +8,7 @@
 * OSUOSL usage of ganeti
 * Future roadmap
 
-!SLIDE bullets transition=scrollLeft
+!SLIDE bullets transition=fade
 
 # What is ganeti? #
 
@@ -17,7 +17,7 @@
 * Disk creation management
 * Automated OS deployment
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets transition=fade
 
 # Ganeti terminology #
 
@@ -30,7 +30,7 @@
 * Xen DomU
 * Guest
 
-!SLIDES smbullets transition=scrollLeft
+!SLIDES smbullets transition=fade
 
 # Ganeti technology #
 

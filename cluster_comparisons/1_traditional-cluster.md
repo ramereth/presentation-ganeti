@@ -1,4 +1,4 @@
-!SLIDE center transition=scrollLeft
+!SLIDE center transition=fade
 
 # Traditional HA cluster #
 
