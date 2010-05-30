@@ -1,12 +1,8 @@
-!SLIDE center transition=fade
+!SLIDE commandline center incremental small transition=fade
 
 # Creating an instance #
 
 ![creating-instance](creating-instance.png)
-
-!SLIDE commandline incremental small transition=fade
-
-# Creating an instance #
 
     $ gnt-instance add -t drbd -n gtest1:gtest2 \
     $    -s 10G -o image+gentoo-hardened-cf \
@@ -30,8 +26,13 @@
 # Other instance commands #
 
     $ gnt-instance console web
+
     $ gnt-instance migrate web
+
     $ gnt-instance failover web
+
     $ gnt-instance reinstall -o image+ubuntu-lucid web
+
     $ gnt-instance info web
+
     $ gnt-instance list

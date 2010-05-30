@@ -12,7 +12,7 @@
 
 # <code>ganeti-instance-image</code> #
 
-* Automatic serial setup for grub, grub2, & login prompt
+* Setup serial for grub, grub2, & login prompt
 * Automatic networking setup (DHCP or static)
 * Automatic ssh hostkey regen
 * Add optional kernel parameters to grub
