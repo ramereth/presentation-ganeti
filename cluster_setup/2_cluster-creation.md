@@ -1,12 +1,10 @@
-!SLIDE center transition=fade
+!SLIDE commandline center transition=fade incremental
 
 # Cluster creation #
 
+<span class="smimage">
 ![cluster-creation](cluster-creation.png)
-
-!SLIDE commandline transition=fade incremental
-
-# Cluster creation #
+</span>
 
     $ gnt-cluster init \
           --master-netdev=br42 \
