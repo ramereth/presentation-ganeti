@@ -1,9 +1,14 @@
-!SLIDE transition=fade
+!SLIDE center transition=fade
 
 # Ganeti #
 ## Creating a low-cost clustered virtualization environment ##
 ### by Lance Albertson ###
-### slides: http://www.lancealbertson.com/presentations/osb-ganeti ###
+
+<span class="smimage">
+![qrcode](qrcode.png)
+</span>
+
+QR-Code URL
 
 !SLIDE bullets transition=fade
 
