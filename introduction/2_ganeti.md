@@ -4,7 +4,7 @@
 
 * Ganeti terminology, comparisons, & goals
 * Cluster & virtual machine setup
-* Failure walk through
+* Failure walk-through
 * OSUOSL usage of ganeti
 * Future roadmap
 
@@ -17,18 +17,14 @@
 * Disk creation management
 * Automated OS deployment
 
-!SLIDE smbullets transition=fade
+!SLIDE bullets transition=fade
 
 # Ganeti terminology #
 
-## Node ##
-* Physical machine
-* Xen Dom0
+![node-instance](node-instance.png =30x30)
 
-## Instance ##
-* Virtual machine
-* Xen DomU
-* Guest
+* Node - physical host
+* Instance - virtual machine
 
 !SLIDES smbullets transition=fade
 
