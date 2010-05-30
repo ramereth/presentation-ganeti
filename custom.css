@@ -107,10 +107,10 @@ img:first-child {
     height: auto;
 }
 
-.bullets ul li {
-    text-align: left;
-    list-style: disc;
-}
-.bullets ul {
-    padding-left: 1em;
-}
+#.bullets ul li {
+#    text-align: left;
+#    list-style: disc;
+#}
+#.bullets ul {
+#    padding-left: 1em;
+#}
