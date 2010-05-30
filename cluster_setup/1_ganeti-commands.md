@@ -3,7 +3,7 @@
 # Ganeti Commands #
 
 * Administration via master node
-* All commands support interactive help & manpages
+* All commands support interactive help
 * Consistent user interface
 
 !SLIDE bullets transition=scrollLeft
@@ -14,6 +14,7 @@
 * <code>gnt-node</code>
 * <code>gnt-instance</code>
 * <code>gnt-backup</code>
+* <code>gnt-os</code>
 
 !SLIDE bullets transition=scrollLeft incremental
 
