@@ -1,24 +1,25 @@
 !SLIDE bullets transition=fade
 
-# Ganeti Commands #
+# Ganeti administration #
 
-* Administration via master node
+* Administration via single master node
 * All commands support interactive help
-* Consistent user interface
+* Consistent commandline interface
+*  __`gnt-<command>`__
 
 !SLIDE bullets transition=fade
 
 # Ganeti Commands #
 
-* <code>gnt-cluster</code>
-* <code>gnt-node</code>
-* <code>gnt-instance</code>
-* <code>gnt-backup</code>
-* <code>gnt-os</code>
+* `gnt-cluster`
+* `gnt-node`
+* `gnt-instance`
+* `gnt-backup`
+* `gnt-os`
 
 !SLIDE bullets transition=fade incremental
 
-# <code>gnt-cluster</code> #
+# `gnt-cluster` #
 
 * Cluster commands
 * Initialize, destroy cluster
@@ -27,7 +28,7 @@
 
 !SLIDE bullets transition=fade incremental
 
-# <code>gnt-node</code> #
+# `gnt-node` #
 
 * Add & remove cluster nodes
 * Fail-over/migrate all primary instances on a node
@@ -36,17 +37,17 @@
 
 !SLIDE bullets transition=fade incremental 
 
-# <code>gnt-instance</code> #
+# `gnt-instance` #
 
 * Add, remove, rename, & reinstall instance
-* Connect to console
+* Connect to serial console
 * Fail-over instance, change secondary
 * Stop, start, migrate instance
 * List instance information
 
 !SLIDE bullets transition=fade incremental 
 
-# <code>gnt-backup</code> #
+# `gnt-backup` #
 
 * Export instance to an image
 * Import instance from an exported image
