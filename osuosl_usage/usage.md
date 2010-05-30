@@ -7,7 +7,6 @@
 * ~64 virtual instances
 * qemu-kvm 0.11
 * 64bit Gentoo Linux
-* Used for webapps, code repository primarily
 
 ## Node details ##
 
