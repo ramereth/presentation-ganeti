@@ -1,5 +1,5 @@
 !SLIDE center transition=fade
 
-# Traditional HA cluster #
+## Traditional virtualization cluster ##
 
 ![traditional-cluster](traditional-cluster.png)
