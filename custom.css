@@ -37,7 +37,7 @@ pre {
 }
 
 body {
-    background: #778;
+    background: black;
     padding: 0;
     margin: 0;
     overflow: hidden;
@@ -55,7 +55,7 @@ body {
 }
 
 #preso, .center {
-    top: 2.5%;
+    top: 3%;
     width: 1020px;
     height: 800px;
 }
@@ -95,7 +95,7 @@ body {
     position: relative;
     width: 1020px;
     padding: 0px;
-    top: 2.5%;
+    top: 3%;
 }
 
 img:first-child {
