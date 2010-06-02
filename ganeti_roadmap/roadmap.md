@@ -8,7 +8,6 @@
 * Ganeti 2.0.0 - May 2009
 * Ganeti 2.1.0 - March 2010
 
-
 !SLIDE bullets transition=fade
 
 # Ganeti roadmap #

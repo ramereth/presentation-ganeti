@@ -4,12 +4,6 @@
 ## Creating a low-cost clustered virtualization environment ##
 ### by Lance Albertson ###
 
-<span class="smimage">
-![qrcode](qrcode.png)
-</span>
-
-QR-Code URL
-
 !SLIDE bullets transition=fade
 
 # About Me #
@@ -18,3 +12,4 @@ QR-Code URL
 * Server hosting for Open Source projects
 * Lead Systems Administrator / Architect
 * Gentoo Developer
+* Jazz trumpet performer 

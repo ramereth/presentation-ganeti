@@ -17,35 +17,36 @@
 * `gnt-backup`
 * `gnt-os`
 
-!SLIDE bullets transition=fade incremental
+!SLIDE bullets transition=fade
 
 # `gnt-cluster` #
 
-* Cluster commands
+* Cluster-wide configuration
 * Initialize, destroy cluster
 * Fail-over master node
 * Verify cluster integrity
 
-!SLIDE bullets transition=fade incremental
+!SLIDE bullets transition=fade
 
 # `gnt-node` #
 
+* Node-wide configuration/administration
 * Add & remove cluster nodes
-* Fail-over/migrate all primary instances on a node
 * Relocate all secondary instances from a node
 * List information about nodes
 
-!SLIDE bullets transition=fade incremental 
+!SLIDE bullets transition=fade
 
 # `gnt-instance` #
 
+* Per-instance configuration/administration
 * Add, remove, rename, & reinstall instance
-* Connect to serial console
+* Serial console
 * Fail-over instance, change secondary
 * Stop, start, migrate instance
 * List instance information
 
-!SLIDE bullets transition=fade incremental 
+!SLIDE bullets transition=fade
 
 # `gnt-backup` #
 

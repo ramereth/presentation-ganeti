@@ -21,6 +21,32 @@
     * running the instance OS create scripts...
     * starting instance...
 
+!SLIDE commandline small transition=fade
+
+# List all instances! #
+
+    $ gnt-instance list
+    Instance      OS                 Primary_node  Status  Memory
+    monkeyhttpd   image+ubuntu-lucid g2.osuosl     running 512M
+    mozdev-stats  image+manual       g3.osuosl     running 512M
+    mulgara       image+manual       g4.osuosl     running 512M
+    musicbrainzvm image+manual       g2.osuosl     running 512M
+    myrtle        image+manual       g1.osuosl     running 512M
+    olpc          image+manual       g3.osuosl     running 512M
+    openberry     image+manual       g1.osuosl     running 512M
+    openclipfont  image+manual       g4.osuosl     running 512M
+    openht        image+manual       g4.osuosl     running 512M
+    openmrs       image+manual       g1.osuosl     running 512M
+    openvoting    image+manual       g2.osuosl     running 512M
+    osi           image+manual       g4.osuosl     running 256M
+    parrotvm      image+manual       g1.osuosl     running 512M
+    pcc           image+manual       g1.osuosl     running 512M
+    pdxplumbers   image+manual       g2.osuosl     running 512M
+    polk          image+manual       g4.osuosl     running 512M
+    puffin        image+manual       g3.osuosl     running 256M
+
+    [...]
+
 !SLIDE commandline transition=fade
 
 # Other instance commands #

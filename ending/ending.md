@@ -1,3 +1,11 @@
+!SLIDE smbullets transition=fade
+
+# Resources #
+
+* http://code.google.com/p/ganeti/ - main project website
+* http://code.google.com/p/ganeti/downloads/ - Ganeti-FISL-2008.pdf
+* http://code.osuosl.org/projects/ganeti-image
+
 !SLIDE transition=fade
 
 # Questions? #

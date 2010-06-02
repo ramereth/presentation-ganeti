@@ -1,12 +1,19 @@
 !SLIDE bullets transition=fade
 
+# OS definitions #
+
+* debootstrap
+* FAI
+* Disk image
+
+!SLIDE bullets transition=fade
+
 # `ganeti-instance-image` #
 ### http://code.osuosl.org/projects/ganeti-image ###
 
 * Disk image based (dump archive or tarball)
 * Flexible OS support (most *nix)
-* Fast deployment
-* Easy to use
+* Fast deployment ( <30 seconds)
 
 !SLIDE bullets transition=fade
 

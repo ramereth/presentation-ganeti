@@ -1,7 +1,7 @@
 {   "name": "Ganeti",
     "sections": [ 
         {"section":"introduction"},
-        {"section":"cluster_comparisons"},
+        {"section":"state_of_virt"},
         {"section":"design_goals"},
         {"section":"cluster_setup"},
         {"section":"instances"},
