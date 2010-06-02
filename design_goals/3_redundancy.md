@@ -8,7 +8,7 @@
 * Master-Slave
 * Dedicated backend network
 
-!SLIDE bullets small center transition=fade
+!SLIDE bullets transition=fade
 
 # Dealing with outages #
 
