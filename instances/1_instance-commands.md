@@ -4,7 +4,7 @@
 
 ![creating-instance](creating-instance.png)
 
-    $ gnt-instance add -t drbd -n gtest1:gtest2 \
+    $ gnt-instance add -t drbd -n node3:node2 \
     $    -s 10G -o image+gentoo-hardened-cf \
     $    --net 0:link=br42  web.example.org
     * creating instance disks...
