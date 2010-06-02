@@ -3,9 +3,9 @@
 # Current solutions #
 
 * Citrix XenServer
-* libvirt: oVirt/virt-manager
+* libvirt: oVirt, virt-manager
 * Eucalyptus
-* clobbler
+* cobbler
 * VMWare
 
 !SLIDE bullets transition=fade

@@ -11,21 +11,19 @@
 
 # Ganeti requirements #
 
-* Python - core
-* bash - instance creation
+* Python
 * simplejson
 * DRBD
 * LVM
-* Supported hypervisors: KVM & Xen
+* KVM and/or Xen
 
 !SLIDE bullets center transition=fade
 
 # Ganeti terminology #
 
 * Node - physical host
-* Instance - virtual machine
+* Instance - virtual machine, aka guest
 
 <span class="smimage">
 ![node-instance](node-instance.png )
 </span>
-
