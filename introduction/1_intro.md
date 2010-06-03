@@ -1,8 +1,10 @@
-!SLIDE center transition=fade
+!SLIDE small-img center transition=fade
 
 # Ganeti #
 ## Creating a low-cost clustered virtualization environment ##
 ### by Lance Albertson ###
+
+![osllogo](osllogo.png)
 
 !SLIDE bullets transition=fade
 
