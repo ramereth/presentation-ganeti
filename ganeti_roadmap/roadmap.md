@@ -7,12 +7,13 @@
 * Ganeti 1.2.0 - December 2007
 * Ganeti 2.0.0 - May 2009
 * Ganeti 2.1.0 - March 2010
+* Ganeti 2.1.3 - June 3, 2010 
 
 !SLIDE bullets transition=fade
 
 # Ganeti roadmap #
 
 * Inter-cluster instance moves
-* KVM security (currently in 2.1.2.1)
+* KVM security (currently in >= 2.1.2.1)
 * Cluster LVM support
 * LXC (Linux containers)
