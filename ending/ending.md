@@ -13,7 +13,8 @@
 ## @ramereth on twitter ##
 ## Ramereth on freenode ##
 
-### slides: http://www.lancealbertson.com/presentations/osb-ganeti ###
-### source: http://github.com/ramereth/presentation-ganeti ###
+## blog: http://www.lancealbertson.com ##
+## slides: http://tinyurl.com/osb-ganeti ##
 
 ### Presentation made with showoff ###
+### (http://github.com/schacon/showoff) ###
