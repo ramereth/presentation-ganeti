@@ -1,7 +1,12 @@
-!SLIDE bullets transition=fade
+!SLIDE smbullets transition=fade
 
-# OS definitions #
+# OS Installation #
 
+* Bash scripts
+* Format, mkfs, mount, install OS
+* Hooks
+
+## OS Definitions ##
 * debootstrap
 * FAI
 * Disk image
@@ -11,9 +16,9 @@
 # `ganeti-instance-image` #
 ### http://code.osuosl.org/projects/ganeti-image ###
 
-* Disk image based (dump archive or tarball)
-* Flexible OS support (most *nix)
-* Fast deployment ( <30 seconds)
+* Disk image based (filesystem dump or tarball)
+* Flexible OS support
+* Fast instance deployment ( ~30 seconds)
 
 !SLIDE bullets transition=fade
 

@@ -1,7 +1,5 @@
-!SLIDE center transition=fade
+!SLIDE center small-img transition=fade
 
 # Ganeti Web #
 
-<span class="medimage">
 ![ganeti-web](ganeti-web.png)
-</span>

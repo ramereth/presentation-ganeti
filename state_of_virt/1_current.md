@@ -10,9 +10,9 @@
 
 !SLIDE bullets transition=fade
 
-# Problems? #
+# Issues #
 
 * Overly complicated
-* Storage not easily distributed
-* Not OSS
-* Uses a large mix of technologies 
+* Lack of HA Storage integration
+* Not always 100% open source 
+* Multiple layers of software

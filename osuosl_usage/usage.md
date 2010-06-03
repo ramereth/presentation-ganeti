@@ -2,10 +2,10 @@
 
 # Ganeti usage at OSUOSL #
 
-* 4-node production cluster
-* Several project clusters (OSGeo, ORVSD, OSDV, phpBB, etc)
+* 4-node production OSUOSL cluster
+* Project clusters (OSGeo, ORVSD, OSDV, phpBB, etc)
 * ~64 virtual instances
-* qemu-kvm 0.11
+* qemu-kvm 0.11.x
 * 64bit Gentoo Linux
 
 ## Node details ##
@@ -16,17 +16,15 @@
 
 !SLIDE center transition=fade
 
-# iSCSI vs. DRBD #
+## Xen + iSCSI vs. kvm + DRBD ##
 
 ![busybox](busybox.png)
 
-!SLIDE center transition=fade
+!SLIDE center small-img-height transition=fade
 
-# Ganeti node CPU #
+# Ganeti node CPU usage #
 
-<span class="height-image">
 ![g2-cpu](g2-cpu.png)
-</span>
 
 !SLIDE center transition=fade
 
@@ -36,7 +34,7 @@
 
 !SLIDE center transition=fade
 
-# Ganeti node DRBD #
+# Ganeti node DRBD network #
 
 ![g2-eth1](g2-eth1.png)
 
@@ -45,7 +43,7 @@
 # OSUOSL future ganeti plans #
 
 * KSM (Kernel SamePage Merging)
-* Upgrade to qemu-kvm 0.12
+* Upgrade to qemu-kvm 0.12.x
 * Migrate hosts from libvirt
 * Puppet integration
 * Web-based tools

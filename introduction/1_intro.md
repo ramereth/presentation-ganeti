@@ -11,5 +11,5 @@
 * OSU Open Source Lab
 * Server hosting for Open Source projects
 * Lead Systems Administrator / Architect
-* Gentoo Developer / contributor
+* Gentoo developer / contributor
 * Jazz trumpet performer 

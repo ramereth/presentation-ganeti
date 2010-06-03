@@ -108,17 +108,17 @@ img:first-child {
     height: auto;
 }
 
-.smimage img:first-child {
+.smaller-img img:first-child {
     height: 40%;
     width: auto;
 }
 
-.medimage img:first-child {
+.small-img img:first-child {
     height: auto;
     width: 60%;
 }
 
-.height-image img:first-child {
+.small-img-height img:first-child {
     height: 80%;
     width: auto;
 }

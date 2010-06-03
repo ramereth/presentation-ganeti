@@ -9,7 +9,7 @@
 
 !SLIDE commandline transition=fade
 
-# `hbal` #
+# __`hbal`__ #
 
     $ hbal -m ganeti.osuosl.bak
     Loaded 4 nodes, 63 instances
@@ -26,7 +26,7 @@
 
 !SLIDE commandline transition=fade
 
-# `hspace` #
+# __`hspace`__ #
 
     $ hspace --memory 512 --disk 10240 -m ganeti.osuosl.bak
     HTS_INI_INST_CNT=63
@@ -38,7 +38,7 @@
 
 !SLIDE commandline small transition=fade
 
-# `hail` #
+# __`hail`__ #
 
     $ gnt-instance add -t drbd -I hail \
     $   -s 10G -o image+gentoo-hardened-cf \
@@ -55,4 +55,3 @@
      - INFO: Instance web.example.org's disks are in sync.
     * running the instance OS create scripts...
     * starting instance...
-

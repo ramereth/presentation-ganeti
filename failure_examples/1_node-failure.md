@@ -19,4 +19,4 @@
 ![secondary-failover](secondary-failover.png)
 
     $ gnt-instance replace-disks --on-secondary \
-    $   --new-secondary=node1 web
+        --new-secondary=node1 web

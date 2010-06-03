@@ -16,7 +16,6 @@
      - INFO: - device disk/0: 80.40% done, 41 estimated seconds remaining
      - INFO: - device disk/0: 98.40% done, 3 estimated seconds remaining
      - INFO: - device disk/0: 100.00% done, 0 estimated seconds remaining
-     - INFO: - device disk/0: 100.00% done, 0 estimated seconds remaining
      - INFO: Instance web.example.org's disks are in sync.
     * running the instance OS create scripts...
     * starting instance...
@@ -44,8 +43,6 @@
     pdxplumbers   image+manual       g2.osuosl     running 512M
     polk          image+manual       g4.osuosl     running 512M
     puffin        image+manual       g3.osuosl     running 256M
-
-    [...]
 
 !SLIDE commandline transition=fade
 

@@ -4,7 +4,7 @@
 
 * Administration via single master node
 * All commands support interactive help
-* Consistent commandline interface
+* Consistent command line interface
 *  __`gnt-<command>`__
 
 !SLIDE bullets transition=fade
@@ -22,7 +22,7 @@
 # `gnt-cluster` #
 
 * Cluster-wide configuration
-* Initialize, destroy cluster
+* Initialize & destroy cluster
 * Fail-over master node
 * Verify cluster integrity
 

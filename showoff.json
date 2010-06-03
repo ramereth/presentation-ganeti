@@ -5,8 +5,8 @@
         {"section":"design_goals"},
         {"section":"cluster_setup"},
         {"section":"instances"},
-        {"section":"other_tools"},
         {"section":"failure_examples"},
+        {"section":"other_tools"},
         {"section":"osuosl_usage"},
         {"section":"ganeti_roadmap"},
         {"section":"ending"}

@@ -2,14 +2,14 @@
 
 # What is ganeti? #
 
-* Software to manage cluster of virtual servers
+* Software to manage a cluster of virtual servers
 * Combines virtualization & data replication
-* Automated storage management
-* Automated OS deployment
+* Automates storage management
+* Automates OS deployment
 
 !SLIDES bullets transition=fade
 
-# Ganeti requirements #
+# Ganeti software requirements #
 
 * Python
 * simplejson
@@ -17,13 +17,11 @@
 * LVM
 * KVM and/or Xen
 
-!SLIDE bullets center transition=fade
+!SLIDE bullets smaller-img center transition=fade
 
 # Ganeti terminology #
 
 * Node - physical host
 * Instance - virtual machine, aka guest
 
-<span class="smimage">
 ![node-instance](node-instance.png )
-</span>

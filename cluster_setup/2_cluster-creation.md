@@ -1,10 +1,8 @@
-!SLIDE commandline center transition=fade incremental
+!SLIDE commandline smaller-img center transition=fade incremental
 
 # Cluster creation #
 
-<span class="smimage">
 ![cluster-creation](cluster-creation.png)
-</span>
 
     $ gnt-cluster init \
           --master-netdev=br42 \
@@ -21,12 +19,26 @@
 
 ![adding-nodes](adding-nodes.png)
 
-    $ gnt-node add \
-        -s 10.1.11.201 node2
+    $ gnt-node add -s 10.1.11.201 node2
+
+!SLIDE commandline center transition=fade incremental
+
+# Listing nodes
+
+![adding-nodes](adding-nodes.png)
+
+    $ gnt-node list
+    Node          DTotal  DFree MTotal MNode MFree Pinst Sinst
+    g1.osuosl.bak 673.9G 251.8G  23.6G 14.5G 14.0G    16    16
+    g2.osuosl.bak 673.9G 204.9G  23.6G 15.5G 14.2G    15    16
+    g3.osuosl.bak 673.9G 200.6G  23.6G 16.8G 13.3G    16    16
+    g4.osuosl.bak 673.9G 154.8G  23.6G 16.4G 15.4G    16    15
 
 !SLIDE commandline transition=fade incremental
 
 # Cluster verification #
+
+![adding-nodes](adding-nodes.png)
 
     $ gnt-cluster verify
     Wed Jun  2 17:31:07 2010 * Verifying global settings
@@ -41,7 +53,7 @@
 
 !SLIDE commandline small transition=fade
 
-## Cluster information ##
+# Cluster information #
 
     $ gnt-cluster info
     Cluster name: ganeti-test.osuosl.bak
@@ -74,28 +86,4 @@
           use_localtime: False
           vnc_bind_address: 0.0.0.0
           vnc_password_file: 
-          vnc_tls: False
-          vnc_x509_path: 
-          vnc_x509_verify: False
-
-!SLIDE command small transition=fade
-
-## Cluster information ##
-
-    OS specific hypervisor parameters:
-    Cluster parameters:
-      - candidate pool size: 10
-      - master netdev: br42
-      - lvm volume group: ganeti
-      - file storage path: /var/lib/ganeti-storage/file
-      - maintenance of node health: False
-      - uid pool: 
-    Default instance parameters:
-      - default:
-          auto_balance: True
-          memory: 512
-          vcpus: 2
-    Default nic parameters:
-      - default:
-          link: br113
-          mode: bridged
+          ....
