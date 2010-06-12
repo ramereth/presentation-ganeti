@@ -6,7 +6,7 @@
 * http://code.google.com/p/ganeti/downloads/ - Ganeti-FISL-2008.pdf
 * http://code.osuosl.org/projects/ganeti-image
 
-!SLIDE transition=fade
+!SLIDE license center transition=fade
 
 # Questions? #
 ## lance@osuosl.org ##
@@ -18,3 +18,6 @@
 
 ### Presentation made with showoff ###
 ### (http://github.com/schacon/showoff) ###
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">![Creative Commons License](cc.png "Creative Commons License")</a>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.

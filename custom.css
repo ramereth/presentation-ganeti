@@ -123,6 +123,11 @@ img:first-child {
     width: auto;
 }
 
+.license img:first-child {
+    width: auto;
+    height: auto;
+}
+
 #.bullets ul li {
 #    text-align: left;
 #    list-style: disc;
