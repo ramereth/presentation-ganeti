@@ -1,4 +1,4 @@
-!SLIDE commandline smaller-img center transition=fade incremental
+!SLIDE commandline smaller-img center transition=fade
 
 # Cluster creation #
 

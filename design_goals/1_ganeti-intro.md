@@ -6,6 +6,7 @@
 * Combines virtualization & data replication
 * Automates storage management
 * Automates OS deployment
+* Project created and maintained by Google
 
 !SLIDES bullets smaller-img-height img-right transition=fade
 

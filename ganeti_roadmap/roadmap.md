@@ -17,4 +17,4 @@
 * KVM security (currently in >= 2.1.2.1)
 * Cluster LVM support
 * LXC (Linux containers)
-* Locking fixes
+* Job locking fixes
