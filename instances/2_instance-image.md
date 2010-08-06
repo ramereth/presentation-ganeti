@@ -1,6 +1,6 @@
 !SLIDE smbullets transition=fade
 
-# OS Installation #
+# Guest OS Installation #
 
 * Bash scripts
 * Format, mkfs, mount, install OS
