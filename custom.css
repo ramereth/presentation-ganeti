@@ -123,6 +123,15 @@ img:first-child {
     width: auto;
 }
 
+.smaller-img-height img:first-child {
+    height: 60%;
+    width: auto;
+}
+.img-right img:first-child {
+    float: right;
+    padding-right: 15%;
+}
+
 .license img:first-child {
     width: auto;
     height: auto;

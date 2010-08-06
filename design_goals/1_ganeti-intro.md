@@ -7,9 +7,11 @@
 * Automates storage management
 * Automates OS deployment
 
-!SLIDES bullets transition=fade
+!SLIDES bullets smaller-img-height img-right transition=fade
 
 # Ganeti software requirements #
+
+![requirements](requirements.png)
 
 * Python
 * simplejson
