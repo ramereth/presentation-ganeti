@@ -5,8 +5,8 @@
 * Citrix XenServer
 * libvirt: oVirt, virt-manager
 * Eucalyptus
-* cobbler
 * VMWare
+* Open Stack
 
 !SLIDE bullets transition=fade
 
