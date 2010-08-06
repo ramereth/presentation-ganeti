@@ -2,6 +2,7 @@
 
 # Ganeti administration #
 
+* Command line based
 * Administration via single master node
 * All commands support interactive help
 * Consistent command line interface

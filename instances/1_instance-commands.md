@@ -22,7 +22,7 @@
 
 !SLIDE commandline small transition=fade
 
-# List all instances! #
+# List all instances #
 
     $ gnt-instance list
     Instance      OS                 Primary_node  Status  Memory

@@ -6,7 +6,7 @@
 * libvirt: oVirt, virt-manager
 * Eucalyptus
 * VMWare
-* Open Stack
+* Open Stack*
 
 !SLIDE bullets transition=fade
 

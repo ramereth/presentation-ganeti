@@ -14,7 +14,7 @@
 ## Ramereth on freenode ##
 
 ## blog: http://www.lancealbertson.com ##
-## slides: http://tinyurl.com/osb-ganeti ##
+## slides: http://tinyurl.com/linuxcon-ganeti ##
 
 ### Presentation made with showoff ###
 ### (http://github.com/schacon/showoff) ###

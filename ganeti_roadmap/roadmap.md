@@ -7,7 +7,7 @@
 * Ganeti 1.2.0 - December 2007
 * Ganeti 2.0.0 - May 2009
 * Ganeti 2.1.0 - March 2010
-* Ganeti 2.1.3 - June 3, 2010 
+* Ganeti 2.2.0~beta0 - June 2010
 
 !SLIDE bullets transition=fade
 
@@ -17,3 +17,4 @@
 * KVM security (currently in >= 2.1.2.1)
 * Cluster LVM support
 * LXC (Linux containers)
+* Locking fixes

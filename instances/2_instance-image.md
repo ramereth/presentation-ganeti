@@ -8,8 +8,8 @@
 
 ## OS Definitions ##
 * debootstrap
-* FAI
 * Disk image
+* Other OS-specific
 
 !SLIDE bullets transition=fade
 
