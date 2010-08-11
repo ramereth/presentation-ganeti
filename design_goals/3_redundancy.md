@@ -5,6 +5,6 @@
 ![drbd](drbd.png)
 
 * Primary & secondary storage nodes
-* Each instance LVM volume synced separately
+* Each instance disk synced separately
 * Dedicated backend DRBD network
 * Allows instance failover & migration

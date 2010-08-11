@@ -15,7 +15,7 @@
 ![requirements](requirements.png)
 
 * Python
-* simplejson
+* various python modules 
 * DRBD
 * LVM
 * KVM and/or Xen
@@ -26,5 +26,6 @@
 
 * Node - physical host
 * Instance - virtual machine, aka guest
+* Cluster - group of nodes
 
 ![node-instance](node-instance.png )
