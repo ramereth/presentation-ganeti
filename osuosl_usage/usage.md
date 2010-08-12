@@ -17,10 +17,10 @@
 
 # Project Ganeti clusters #
 
-* OSGeo - 9 VMs
-* OSDV - 5 VMs
-* phpBB - 11 VMs
-* ORVSD - 10 VMs
+* OSGeo - 9 instances / 2 nodes
+* OSDV - 5 instances / 3 nodes
+* phpBB - 11 instances / 2 nodes
+* ORVSD - 10 instances / 2 nodes
 
 !SLIDE center transition=fade
 

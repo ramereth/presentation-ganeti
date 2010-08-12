@@ -1,6 +1,6 @@
 !SLIDE bullets transition=fade
 
-# Current solutions #
+# State of Virtualization #
 
 * Citrix XenServer
 * libvirt: oVirt, virt-manager
