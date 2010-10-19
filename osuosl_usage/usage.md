@@ -3,8 +3,8 @@
 # Ganeti usage at OSUOSL #
 
 * 4-node production OSUOSL cluster
-* ~65 virtual instances
-* qemu-kvm 0.11.x
+* ~67 virtual instances
+* qemu-kvm 0.12.x
 * 64bit Gentoo Linux
 
 ## Node details ##
@@ -51,7 +51,7 @@
 # OSUOSL future ganeti plans #
 
 * KSM (Kernel SamePage Merging)
-* Upgrade to qemu-kvm 0.12.x
+* Upgrade to qemu-kvm 0.12.x - DONE!
 * Migrate hosts from libvirt - DONE!
 * Puppet integration
-* Web-based tools
+* Web-based tools - In Progress

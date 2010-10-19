@@ -6,10 +6,10 @@
 * License: GPL v2
 * Ganeti 1.2.0 - December 2007
 * Ganeti 2.0.0 - May 2009
-* Ganeti 2.1.0 - March 2010 / 2.1.6 current
-* Ganeti 2.2.0~beta0 - June 2010
+* Ganeti 2.1.0 - March 2010 / 2.1.7 current
+* Ganeti 2.2.0 - Oct 2010 / 2.2.1 current
 
-!SLIDE bullets transition=fade
+!SLIDE smbullets transition=fade
 
 # Ganeti roadmap #
 
@@ -17,4 +17,6 @@
 * KVM security (currently in >= 2.1.2.1)
 * Cluster LVM support
 * LXC (Linux containers)
-* Job locking fixes
+* Node Groups
+* Cluster state Caching
+* IPv6 Support

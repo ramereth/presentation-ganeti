@@ -5,6 +5,7 @@
 * http://code.google.com/p/ganeti/ - main project website
 * http://code.google.com/p/ganeti/downloads/ - Ganeti-FISL-2008.pdf
 * http://code.osuosl.org/projects/ganeti-image
+* http://code.osuosl.org/projects/ganeti-webmgr
 
 !SLIDE license center transition=fade
 
@@ -30,3 +31,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 * Migrate instance
 * Fail-over instance
 * Re-install instance
+* Ganeti WebMgr
