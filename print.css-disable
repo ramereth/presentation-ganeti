@@ -37,65 +37,10 @@ pre {
 }
 
 body {
-    background: black;
+    background: white;
     padding: 0;
     margin: 0;
     overflow: hidden;
-}
-
-.slide {
-    width: 1020px;
-    height: 800px;
-    left: 50%;
-    top: 50%;
-    position: absolute;
-    background-color: none;
-    background: none;
-    border: none
-}
-
-#preso, .center {
-    top: 3%;
-    width: 1020px;
-    height: 800px;
-}
-
-.subsection {
-    background: #008 -webkit-gradient(linear, 0% 0%, 0% 100%, from(#008), to(#009));
-    background-color: #008;
-    font-family: 'Junction';
-    padding: 6px 10px 3px 10px;
-    line-height: 30px;
-    text-shadow: none;
-    letter-spacing: 0;
-    bottom: 10px;
-    position: relative;
-    border-radius: 10px;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
-    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
-    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0 2px 5px;
-}
-
-#preso {
-    background: -webkit-gradient(linear, left bottom, left top, from(#bbd), to(#fff));
-    background-color: #eee;
-    background: -moz-linear-gradient(bottom, #bbd, #fff);
-    border-top-left-radius: 20px;
-    -moz-border-radius-topleft: 20px;
-    -webkit-border-top-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-    -moz-border-radius-bottomright: 20px;
-    -webkit-border-bottom-right-radius: 20px;
-}
-    
-
-#footer { 
-    position: relative;
-    width: 1020px;
-    padding: 0px;
-    top: 3%;
 }
 
 img:first-child {
@@ -137,10 +82,18 @@ img:first-child {
     height: auto;
 }
 
-#.bullets ul li {
-#    text-align: left;
-#    list-style: disc;
-#}
-#.bullets ul {
-#    padding-left: 1em;
-#}
+.slide {
+    width: 1020px;
+    height: 800px;
+    left: 50%;
+    top: 50%;
+}
+
+.slide .center {
+    width: 1020px;
+    height: 800px;
+    left: 50%;
+    top: 50%;
+}
+
+/* vi: set ft=css : */
