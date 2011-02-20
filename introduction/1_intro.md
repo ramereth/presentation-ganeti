@@ -1,7 +1,7 @@
 !SLIDE small-img center transition=fade
 
 # Ganeti #
-## Creating a low-cost clustered virtualization environment ##
+## Scalable Virtualization with Ganeti ##
 ### by Lance Albertson ###
 
 ![osllogo](osllogo.png)

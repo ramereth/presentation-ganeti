@@ -6,4 +6,5 @@
 * Cluster & virtual machine setup
 * Dealing with outages
 * OSUOSL usage of ganeti
+* Web Interface to Ganeti
 * Future roadmap
