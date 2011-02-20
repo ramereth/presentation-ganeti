@@ -5,6 +5,6 @@
 * Ganeti terminology, comparisons, & goals
 * Cluster & virtual machine setup
 * Dealing with outages
-* OSUOSL usage of ganeti
 * Web Interface to Ganeti
+* OSUOSL usage of ganeti
 * Future roadmap

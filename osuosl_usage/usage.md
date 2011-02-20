@@ -3,7 +3,7 @@
 # Ganeti usage at OSUOSL #
 
 * 4-node production OSUOSL cluster
-* ~67 virtual instances
+* ~71 virtual instances
 * qemu-kvm 0.12.x
 * 64bit Gentoo Linux
 
@@ -20,7 +20,7 @@
 * OSGeo - 9 instances / 2 nodes
 * OSDV - 5 instances / 3 nodes
 * phpBB - 11 instances / 2 nodes
-* ORVSD - 10 instances / 2 nodes
+* ORVSD - 11 instances / 2 nodes
 
 !SLIDE center transition=fade
 
@@ -51,7 +51,5 @@
 # OSUOSL future ganeti plans #
 
 * KSM (Kernel SamePage Merging)
-* Upgrade to qemu-kvm 0.12.x - DONE!
-* Migrate hosts from libvirt - DONE!
 * Puppet integration
 * Web-based tools - In Progress

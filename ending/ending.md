@@ -15,7 +15,7 @@
 ## Ramereth on freenode ##
 
 ## blog: http://www.lancealbertson.com ##
-## slides: http://tinyurl.com/linuxcon10-ganeti ##
+## slides: http://tinyurl.com/scale9x-ganeti ##
 
 ### Presentation made with showoff ###
 ### (http://github.com/schacon/showoff) ###
@@ -31,4 +31,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 * Migrate instance
 * Fail-over instance
 * Re-install instance
-* Ganeti WebMgr
+* Ganeti Web Manager

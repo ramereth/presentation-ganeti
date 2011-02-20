@@ -29,10 +29,10 @@
 
     $ gnt-node list
     Node          DTotal  DFree MTotal MNode MFree Pinst Sinst
-    g1.osuosl.bak 673.9G 251.8G  23.6G 14.5G 14.0G    16    16
-    g2.osuosl.bak 673.9G 204.9G  23.6G 15.5G 14.2G    15    16
-    g3.osuosl.bak 673.9G 200.6G  23.6G 16.8G 13.3G    16    16
-    g4.osuosl.bak 673.9G 154.8G  23.6G 16.4G 15.4G    16    15
+    g1.osuosl.bak 673.9G 163.8G  23.6G 16.8G  8.3G    18    18
+    g2.osuosl.bak 673.9G 149.2G  23.6G 16.1G 10.5G    18    17
+    g3.osuosl.bak 673.9G 120.5G  23.6G 16.3G  9.5G    18    18
+    g4.osuosl.bak 673.9G 100.0G  23.6G 16.4G  9.3G    17    18
 
 !SLIDE commandline transition=fade incremental
 
@@ -41,49 +41,50 @@
 ![adding-nodes](adding-nodes.png)
 
     $ gnt-cluster verify
-    Wed Jun  2 17:31:07 2010 * Verifying global settings
-    Wed Jun  2 17:31:08 2010 * Gathering data (4 nodes)
-    Wed Jun  2 17:31:09 2010 * Verifying node status
-    Wed Jun  2 17:31:09 2010 * Verifying instance status
-    Wed Jun  2 17:31:09 2010 * Verifying orphan volumes
-    Wed Jun  2 17:31:09 2010 * Verifying oprhan instances
-    Wed Jun  2 17:31:09 2010 * Verifying N+1 Memory redundancy
-    Wed Jun  2 17:31:09 2010 * Other Notes
-    Wed Jun  2 17:31:09 2010 * Hooks Results
+    Sun Feb 20 2011 * Verifying global settings
+    Sun Feb 20 2011 * Gathering data (4 nodes)
+    Sun Feb 20 2011 * Gathering disk information (4 nodes)
+    Sun Feb 20 2011 * Verifying node status
+    Sun Feb 20 2011 * Verifying instance status
+    Sun Feb 20 2011 * Verifying orphan volumes
+    Sun Feb 20 2011 * Verifying orphan instances
+    Sun Feb 20 2011 * Verifying N+1 Memory redundancy
+    Sun Feb 20 2011 * Other Notes
+    Sun Feb 20 2011 * Hooks Results
 
 !SLIDE commandline small transition=fade
 
 # Cluster information #
 
     $ gnt-cluster info
-    Cluster name: ganeti-test.osuosl.bak
-    Cluster UUID: a22576ba-9158-4336-8590-a497306f84b9
-    Creation time: 2010-04-08 00:08:29
-    Modification time: 2010-05-07 22:33:34
-    Master node: gtest1.osuosl.bak
+    Modification time: 2011-02-16 21:22:04
+    Master node: g1.osuosl.bak
     Architecture (this node): 64bit (x86_64)
     Tags: (none)
     Default hypervisor: kvm
     Enabled hypervisors: kvm
     Hypervisor parameters:
       - kvm:
-          acpi: True
           boot_order: disk
-          cdrom_image_path: 
-          disk_cache: default
           disk_type: paravirtual
           initrd_path: 
           kernel_args: ro
           kernel_path: /boot/guest/vmlinuz-x86_64-hardened
-          kvm_flag: 
-          migration_port: 8102
           nic_type: paravirtual
           root_path: /dev/vda2
-          security_domain: 
-          security_model: none
           serial_console: True
-          usb_mouse: 
-          use_localtime: False
           vnc_bind_address: 0.0.0.0
-          vnc_password_file: 
-          ....
+    OS-specific hypervisor parameters:
+    OS parameters:
+    Cluster parameters:
+      - candidate pool size: 4
+      - master netdev: br42
+      - lvm volume group: ganeti
+      - lvm reserved volumes: (none)
+      - drbd usermode helper: /bin/true
+      - file storage path: /var/lib/ganeti/export
+      - maintenance of node health: False
+      - uid pool: 
+      - default instance allocator: hail
+      - primary ip version: 4
+    ...

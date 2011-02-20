@@ -17,6 +17,7 @@
 * `gnt-instance`
 * `gnt-backup`
 * `gnt-os`
+* `gnt-group` (>= 2.4 only)
 
 !SLIDE bullets transition=fade
 
