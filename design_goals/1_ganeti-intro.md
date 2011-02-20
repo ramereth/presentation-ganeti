@@ -3,10 +3,11 @@
 # What is ganeti? #
 
 * Software to manage a cluster of virtual servers
+* Project created and maintained by Google
 * Combines virtualization & data replication
+* Works with multiple hypervisors
 * Automates storage management
 * Automates OS deployment
-* Project created and maintained by Google
 
 !SLIDES bullets smaller-img-height img-right transition=fade
 
@@ -18,14 +19,14 @@
 * various python modules 
 * DRBD
 * LVM
-* KVM and/or Xen
+* KVM, Xen, or LXC*
 
-!SLIDE bullets smaller-img center transition=fade
+!SLIDE smbullets smaller-img-height center transition=fade
 
 # Ganeti terminology #
 
+* Cluster - group of nodes
 * Node - physical host
 * Instance - virtual machine, aka guest
-* Cluster - group of nodes
 
-![node-instance](node-instance.png )
+![ganeti-cluster](ganeti-cluster.png )

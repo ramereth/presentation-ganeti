@@ -4,7 +4,7 @@
 
 * Reduce hardware cost
 * Increase service availability
-* Increase management flexibility
+* Simplify VM cluster management
 * Administration transparency
 
 !SLIDE bullets transition=fade
@@ -13,5 +13,5 @@
 
 * Not dependent on specific hardware
 * Scales linearly
-* Single node takes admin master role
+* Centralized administration
 * N+1 redundancy
