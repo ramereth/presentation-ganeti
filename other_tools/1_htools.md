@@ -26,6 +26,25 @@
 
 !SLIDE commandline transition=fade
 
+# __`hbal`__ #
+
+    $ hbal -C -m ganeti.osuosl.bak
+    Loaded 4 nodes, 71 instances
+    Initial check done: 0 bad nodes, 0 bad instances.
+    Initial score: 2.10591985
+    Trying to minimize the CV...
+        1. linuxfund            g4:g3 => g4:g2 2.09981699 a=r:g2
+    Cluster score improved from 2.10591985 to 2.09981699
+    Solution length=1
+
+    Commands to run to reach the above solution:
+      
+      echo jobset 1, 1 jobs
+        echo job 1/1
+        gnt-instance replace-disks -n g2 linuxfund
+
+!SLIDE commandline transition=fade
+
 # __`hspace`__ #
 
     $ hspace --memory 512 --disk 10240 -m ganeti.osuosl.bak
