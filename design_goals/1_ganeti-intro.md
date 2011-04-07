@@ -3,11 +3,11 @@
 # What is ganeti? #
 
 * Software to manage a cluster of virtual servers
-* Project created and maintained by Google
+* Project created & maintained by Google
 * Combines virtualization & data replication
-* Works with multiple hypervisors
-* Automates storage management
-* Automates OS deployment
+* Supports multiple hypervisors
+* Automates VM storage management
+* Streamlines VM deployment
 
 !SLIDES bullets smaller-img-height img-right transition=fade
 

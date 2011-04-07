@@ -9,7 +9,7 @@
 
 # Ganeti Web Manager #
 * Django based front-end for Ganeti
-* OSUOSL funded project
+* OSUOSL project
 * Includes a permission & quota system
 * Uses Ganeti RAPI interface
 * HTML5 console using noVNC

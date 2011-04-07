@@ -26,5 +26,5 @@
 
 * Setup serial for grub, grub2, & login prompt
 * Automatic networking setup (DHCP or static)
-* Automatic ssh hostkey regen
+* ssh hostkey regen
 * Add optional kernel parameters to grub

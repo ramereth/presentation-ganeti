@@ -5,7 +5,7 @@
 ![creating-instance](creating-instance.png)
 
     $ gnt-instance add -t drbd -n node3:node2 \
-    $    -s 10G -o image+gentoo-hardened-cf \
+    $    -s 10G -o image+ubuntu-maverick \
     $    --net 0:link=br42  web.example.org
     * creating instance disks...
     adding instance web.example.org to cluster config

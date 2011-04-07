@@ -1,6 +1,6 @@
 {   "name": "Ganeti",
     "sections": [ 
-        {"section":"intro_mini"},
+        {"section":"introduction"},
         {"section":"state_of_virt"},
         {"section":"design_goals"},
         {"section":"cluster_setup"},

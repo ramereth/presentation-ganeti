@@ -25,7 +25,7 @@
 
 * Cluster-wide configuration
 * Initialize & destroy cluster
-* Fail-over master node
+* Switch master node
 * Verify cluster integrity
 
 !SLIDE bullets transition=fade
@@ -34,8 +34,8 @@
 
 * Node-wide configuration/administration
 * Add & remove cluster nodes
-* Relocate all secondary instances from a node
 * List information about nodes
+* Relocate all secondary storage from a node
 
 !SLIDE bullets transition=fade
 
@@ -43,9 +43,9 @@
 
 * Per-instance configuration/administration
 * Add, remove, rename, & reinstall instance
+* Stop, start
+* Fail-over, migrate instance
 * Serial console
-* Fail-over instance, change secondary
-* Stop, start, migrate instance
 * List instance information
 
 !SLIDE bullets transition=fade
@@ -54,4 +54,3 @@
 
 * Export instance to an image
 * Import instance from an exported image
-* Useful for inter-cluster migration

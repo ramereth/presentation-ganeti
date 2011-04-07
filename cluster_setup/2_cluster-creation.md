@@ -6,7 +6,8 @@
 
     $ gnt-cluster init \
           --master-netdev=br42 \
-          -g ganeti -s 10.1.11.200 \
+          --vg-name ganeti \
+          -s 10.1.11.200 \
           --enabled-hypervisors=kvm \
           -N link=br113 \
           -B vcpus=2,memory=512M \

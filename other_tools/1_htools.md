@@ -60,7 +60,7 @@
 # __`hail`__ #
 
     $ gnt-instance add -t drbd -I hail \
-    $   -s 10G -o image+gentoo-hardened-cf \
+    $   -s 10G -o image+ubuntu-maverick \
     $   --net 0:link=br42  web.example.org \
      - INFO: Selected nodes for instance web.example.org 
              via iallocator hail: gtest1.osuosl.bak, gtest2.osuosl.bak

@@ -3,7 +3,7 @@
 # Goals #
 
 * Reduce hardware cost
-* Increase service availability
+* Increase VM availability
 * Simplify VM cluster management
 * Administration transparency
 

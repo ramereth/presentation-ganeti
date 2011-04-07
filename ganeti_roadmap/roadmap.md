@@ -5,9 +5,9 @@
 * http://code.google.com/p/ganeti/
 * License: GPL v2
 * Ganeti 1.2.0 - December 2007
-* 2.0.0 - May 2009, 2.1.0 March 2010
-* Ganeti 2.2.0 - Oct 2010 / 2.2.2 current
+* Ganeti 2.0.0 - May 2009
 * Ganeti 2.3.0 - Dec 2010 / 2.3.1 current
+* Ganeti 2.4.0 - Mar 2011 / 2.4.1 current
 
 !SLIDE smbullets transition=fade
 
